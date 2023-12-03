@@ -1,8 +1,9 @@
 # Blose: Privacy policy
 
-Blose is a Wear OS 3 Watchface developed by Kaj Bjurman. 
+Blose is a Wear OS 3/4 Watchface developed by Kaj Bjurman. 
 
-The application does not collect any user data, and isn't sharing user data. All data (e.g alarm levels, glucose readings) is erased when you uninstall the app.
+The application is storing credentials encrypted on the device. The credentials, and all data (e.g alarm levels, glucose readings) is erased when you uninstall the app.
+The credentials are needed in order to fetch glucose values.
 
 # Account deletion
 
